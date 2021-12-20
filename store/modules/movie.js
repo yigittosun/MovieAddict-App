@@ -50,7 +50,7 @@ const actions = {
     async fetchMovies(context, payload){
         const listType = payload.listType.replace('-','_');
 
-        await this.$axios.$get(`/movie/top_rated?api_key=${API_KEY}&page=${payload.page}`).then(res => {
+        await this.$axios.$get(`/movie/${listType}?api_key=${API_KEY}&page=${payload.page}`).then(res => {
             context.commit('setMovies', res);
         })
     },

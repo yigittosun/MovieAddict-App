@@ -1,7 +1,7 @@
 <template>
 <div class="container">
     <div class="header-banner">
-    <img src="./../../assets/img/headerImage.jpg" alt="" />
+    <img src="./../../assets/img/headerImage.webp" alt="" />
     <div class="text-container">
       <div class="text">
         <h1><span>About</span> Us</h1>

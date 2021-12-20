@@ -3,30 +3,35 @@
     "name": "about-us",
     "path": "/about-us",
     "component": "C:\\\\Users\\\\yigit\\\\Desktop\\\\movieaddict-app\\\\pages\\\\about-us\\\\index.vue",
-    "chunkName": "pages/about-us/index"
+    "chunkName": "pages/about-us/index",
+    "_name": "_429a8ae0"
   },
   {
     "name": "search",
     "path": "/search",
     "component": "C:\\\\Users\\\\yigit\\\\Desktop\\\\movieaddict-app\\\\pages\\\\search\\\\index.vue",
-    "chunkName": "pages/search/index"
+    "chunkName": "pages/search/index",
+    "_name": "_1580bef4"
   },
   {
     "name": "movie-id",
     "path": "/movie/:id",
     "component": "C:\\\\Users\\\\yigit\\\\Desktop\\\\movieaddict-app\\\\pages\\\\movie\\\\_id\\\\index.vue",
-    "chunkName": "pages/movie/_id/index"
+    "chunkName": "pages/movie/_id/index",
+    "_name": "_69bebde4"
   },
   {
     "name": "movies-id",
     "path": "/movies/:id",
     "component": "C:\\\\Users\\\\yigit\\\\Desktop\\\\movieaddict-app\\\\pages\\\\movies\\\\_id\\\\index.vue",
-    "chunkName": "pages/movies/_id/index"
+    "chunkName": "pages/movies/_id/index",
+    "_name": "_f8d28822"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\yigit\\\\Desktop\\\\movieaddict-app\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_34c03eae"
   }
 ]

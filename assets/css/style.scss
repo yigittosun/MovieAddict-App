@@ -13,6 +13,7 @@ body {
     color: #fff;
     font-size: 25px;
     margin-bottom: 0;
+    text-transform: capitalize;
 }
 
 .p-40 {
@@ -173,6 +174,8 @@ body {
 .home-slider {
     background: #000;
     padding: 20px 0;
+    background-image:  url("./../../assets/img/curtain.webp");
+    background-size: contain;
 }
 
 .home-slider .slick-dots {
@@ -200,7 +203,7 @@ body {
 }
 
 .home-slider .slick-dots li.slick-active button {
-    background: #fff;
+    background: #e91515;
 }
 
 .home-slider .slick-slide {
@@ -542,9 +545,10 @@ body {
               line-height: 1.5;
               position: absolute;
               bottom: 0;
-              background-color: #7FFFD4;
+              background-color: #000000;
+              width: -webkit-fill-available;
               padding: 12px;
-              color: rgb(0, 0, 0);
+              color: rgb(255, 255, 255);
               transform: translateY(100%);
               transition: 0.3s ease-in-out all;
             }
@@ -678,7 +682,18 @@ body {
   }
 
   .movie-icon{
-    color: aquamarine;
+    color: #dd2226;
     padding-right: 1rem;
     font-size: larger;
   }
+
+  a:hover{
+    text-decoration: unset !important;
+    color: #dd2226  !important;
+  }
+
+  a{
+      color: #fff !important;
+  }
+
+ 

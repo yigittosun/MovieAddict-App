@@ -3,7 +3,7 @@
         <div class="container">
             <h2 class="section-title slider-title">On the Cinema</h2>
             <div class="movie-slider-row">
-                <VueSlickCarousel v-bind="settings">
+                <VueSlickCarousel v-bind="settings"> 
                     <MovieSlider v-for="movie in movies" :movie="movie" :key="movie.id" />
                 </VueSlickCarousel>
             </div>

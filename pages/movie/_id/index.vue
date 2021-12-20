@@ -7,27 +7,6 @@
                 <div class="row">
                     <div class="col-12 col-md-4 col-lg-3">
                         <Poster :poster="posterData" />
-                        <social-sharing
-                            :url="socialSharingUrl"
-                            :title="detail.title"
-                            :description="detail.overview"
-                            inline-template
-                            class="social-sharing">
-                            <div>
-                                <network class="ss-fb" network="facebook">
-                                    <i class="fab fa-facebook-f"></i>
-                                </network>
-                                <network class="ss-in" network="linkedin">
-                                    <i class="fab fa-linkedin-in"></i>
-                                </network>
-                                <network class="ss-tw" network="twitter">
-                                    <i class="fab fa-twitter"></i>
-                                </network>
-                                <network class="ss-wp" network="whatsapp">
-                                    <i class="fab fa-whatsapp"></i>
-                                </network>
-                            </div>
-                        </social-sharing>
                     </div>
                     <div class="col-12 col-md-8 col-lg-9">
                         <div class="movie-detail__content">
