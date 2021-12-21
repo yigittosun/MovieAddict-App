@@ -14,7 +14,7 @@
                                 <h1>{{detail.title}}</h1>
                                 <div class="movie-detail__rate">
                                     <i class="fas fa-star"></i>
-                                    <span>{{detail.vote_average}}/<small>10</small></span>
+                                    <span>{{detail.vote_average}} / 10</span>
                                 </div>
                             </div>
                             <div class="movie-detail__desc">
@@ -52,14 +52,13 @@
                                             <p>{{releaseDate}}</p>
                                         </div>
                                         <div class="movie-detail__right-block">
-                                            <span>Runtime:</span>
+                                            <span>Duration:</span>
                                             <p>{{detail.runtime}} min</p>
                                         </div>
                                          <div class="movie-detail__right-block">
                                             <span>Tags:</span>
                                             <p>{{detail.tagline}}</p>
                                         </div>
-                                      
                                     </div>
                                 </div>
                             </div>

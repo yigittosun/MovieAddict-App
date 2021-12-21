@@ -6,7 +6,7 @@
                     <input
                         type="text"
                         class="form-control search-box__input"
-                        placeholder="Search movie..."
+                        placeholder="Let's Find a Movie..."
                         aria-describedby="button-addon2"
                         @keyup.enter="search"
                         v-model="keyword">
