@@ -41,7 +41,9 @@ Here we can see the films that have remained popular until today.
 In this section, we can see the movies that are currently shown in cinemas.
 
 
+### For installation, 
 
+You can run the project by typing fine ***npm install*** followed by ***npm start dev***.
 
 
 
