@@ -43,7 +43,7 @@ In this section, we can see the movies that are currently shown in cinemas.
 
 ### For installation, 
 
-You can run the project by typing fine ***npm install*** followed by ***npm start dev***.
+You can run the project by typing ***npm install*** followed by ***npm start dev***.
 
 
 
