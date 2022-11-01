@@ -2,8 +2,7 @@
 
 ## Description of Project
 
-In the case study that was sent to me, the movies were recorded via [moviedb](https://www.themoviedb.org/).I was asked to make a web application where the movies are listed and we can see the details 
-of these movies.
+The movies were recorded via [moviedb](https://www.themoviedb.org/).I was asked to make a web application where the movies are listed and we can see the details of these movies.
 
 I built the project using Nuxt.js as you mentioned.In the moviedb documentation you sent me, I got help from the articles showing how to call the APIs. 
 While writing CSS, I preferred to write in SASS format. I used the Bootstrap library.
